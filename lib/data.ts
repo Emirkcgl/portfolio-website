@@ -42,7 +42,7 @@ export const experiencesData = [
     description:
       "Received training in HTML, CSS, Angular, JavaScript, and TypeScript during the internship. Developed responsive designs and reinforced technical knowledge by working on small projects. Advanced front-end development skills through practical experience on various projects.",
     icon: React.createElement(LuGraduationCap),
-    date: "Tem 2022 - Tem 2023",
+    date: "Jul 2022 - Jul 2023",
   },
 
   {
@@ -51,7 +51,7 @@ export const experiencesData = [
     description:
       "Performed API integrations using Angular, enhancing user experience by increasing data accessibility and functionality. Developed reusable UI components using Angular libraries, ensuring consistency across projects. Built mobile-friendly and responsive web applications to ensure seamless operation across different devices. Collaborated with UX/UI designers to adapt designs for projects and integrate them into applications. Facilitated team collaboration by effectively utilizing version control systems like Git and GitHub.",
     icon: React.createElement(CgWorkAlt),
-    date: "Tem 2023",
+    date: "Jul 2023 - Present",
   },
 ] as const;
 
