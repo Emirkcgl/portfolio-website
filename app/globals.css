@@ -13,3 +13,11 @@ html.dark {
 .borderBlack {
   @apply border border-black/10;
 }
+
+.sm\:h-\[20rem\] {
+  height: unset !important;
+}
+
+p.mt-2.leading-relaxed.text-gray-700.dark\:text-white\/70 {
+  margin-bottom: 1rem;
+}
